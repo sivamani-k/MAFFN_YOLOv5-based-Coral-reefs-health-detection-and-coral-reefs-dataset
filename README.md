@@ -1,2 +1,2 @@
 # coral-reefs-image-dataset
-Coral-reefs health detection system
+MAFFN_YOLOv5: Multi-Scale Attention Feature Fusion Network on the YOLOv5 Model for the Health Detection of Coral-Reefs Using a Built-In Benchmark Dataset
